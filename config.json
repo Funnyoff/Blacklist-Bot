@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN_BOT",
+    "prefix": "+",
+    "owner": [
+        "OWNER ID 1",
+        "OWNER ID 2",
+        "OWNER ID 3"
+    ]
+}

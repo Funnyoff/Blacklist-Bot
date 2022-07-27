@@ -1,0 +1,12 @@
+{
+  "name": "blacklist-bot",
+  "main": "index.js",
+  "author": "Funny#0006",
+  "version": "1.0.0",
+  "description": "Simple bot blacklist créer par Funny#0006",
+
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "quick.db": "^7.1.3"
+  }
+}
